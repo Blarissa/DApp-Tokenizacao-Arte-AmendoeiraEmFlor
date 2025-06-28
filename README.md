@@ -90,7 +90,3 @@ O contrato `ArtToken` utilizado nesta simulação está implementado na rede Sep
 ## 🤝 Créditos
 
 Desenvolvido para a disciplina de Tópicos em Computação Aplicada do Curso de Ciência da Computação da UFPI, sob orientação do Prof. Glauber Dias Gonçalves.
-
-## 📄 Licença
-
-Este projeto é de código aberto e está sob a Licença MIT.
